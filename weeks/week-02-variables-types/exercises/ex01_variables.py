@@ -21,6 +21,7 @@ a = 10
 b = 20
 # Sau hoán đổi: a = 20, b = 10
 # Gợi ý: Python cho phép a, b = b, a
+a, b = b, a
 
 print(f"Sau hoan doi: a = {a}, b = {b}")
 
